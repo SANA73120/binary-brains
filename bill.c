@@ -12,5 +12,6 @@ void main()
     d=a+b+c;
     gst=(d*18)/100;
     printf("%f",d+gst);
+    printf();
     getch();
 }
